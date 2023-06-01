@@ -1,0 +1,16 @@
+.tableContainer {
+  width: 960px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.cell_Blue {
+  background-color: #1976d2;
+  color: #ffffff;
+}
+
+.cell_Purple {
+  background-color: #482880;
+  color: #ffffff;
+}
